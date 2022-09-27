@@ -1,5 +1,9 @@
 # Leetcode
 
+# [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
+### easy
+392. [Is Subsequence](./IsSubsequence(392).py)
+
 # [Sorting](https://leetcode.com/tag/sorting/)
 ### easy
 88. [Merge Sorted Array](./MergeSortedArray(88).py)
