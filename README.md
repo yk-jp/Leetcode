@@ -3,6 +3,9 @@
 # [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 ### easy
 392. [Is Subsequence](./IsSubsequence(392).py)
+### medium
+64. [Minimum Path Sum](./MinimumPathSum(64).py)
+300. [Longest Increasing Subsequence](./LongestIncreasingSubsequence(300).py)
 
 # [Sorting](https://leetcode.com/tag/sorting/)
 ### easy
