@@ -10,6 +10,7 @@
 # [Sorting](https://leetcode.com/tag/sorting/)
 ### easy
 88. [Merge Sorted Array](./MergeSortedArray(88).py)
+704. [Binary Search](./BinarySearch(704).py)
 ### medium
 658. [Find K Closest Elements](./FindKClosestElements(658).py)
 
