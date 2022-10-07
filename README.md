@@ -12,6 +12,7 @@
 704. [Binary Search](./BinarySearch(704).py)
 ### medium
 658. [Find K Closest Elements](./FindKClosestElements(658).py)
+912. [Sort an Array](./SortAnArray(912).py)
 
 # [Tree](https://leetcode.com/tag/tree/)
 ### easy
