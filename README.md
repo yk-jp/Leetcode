@@ -16,7 +16,8 @@
 
 # [Tree](https://leetcode.com/tag/tree/)
 ### easy
-
+100. [Same Tree](./SameTree(100).py)
+572. [Subtree of Another Tree](./SubtreeOfAnotherTree(572).py)
 ### medium
 
 # [Sliding Window](https://leetcode.com/tag/sliding-window/)
