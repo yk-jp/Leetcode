@@ -17,6 +17,7 @@
 # [Tree](https://leetcode.com/tag/tree/)
 ### easy
 100. [Same Tree](./SameTree(100).py)
+226. [Invert Binary Tree](./InvertBinaryTree(226).py)
 572. [Subtree of Another Tree](./SubtreeOfAnotherTree(572).py)
 ### medium
 
