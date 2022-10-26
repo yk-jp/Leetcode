@@ -16,10 +16,12 @@
 
 # [Tree](https://leetcode.com/tag/tree/)
 ### easy
+94. [Binary Tree Inorder Traversal](./BinaryTreeInorderTraversal(94).py)
 100. [Same Tree](./SameTree(100).py)
 226. [Invert Binary Tree](./InvertBinaryTree(226).py)
 572. [Subtree of Another Tree](./SubtreeOfAnotherTree(572).py)
 ### medium
+230. [Kth Smallest Element in a BST](./KthSmallestElementInABST(230).py)
 
 # [Sliding Window](https://leetcode.com/tag/sliding-window/)
 ### easy
