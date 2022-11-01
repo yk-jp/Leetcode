@@ -31,3 +31,6 @@
 ### medium
 187. [Repeated DNA Sequences](./RepeatedDNASequences(187).py) 
 209.  [Minimum Size Subarray Sum](./MinimumSizeSubarraySum(209).py)
+
+# [Graph](https://leetcode.com/tag/graph/)
+997. [Find the Town Judge](./FindTheTownJudge(997).py)
