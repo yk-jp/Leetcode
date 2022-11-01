@@ -22,6 +22,7 @@
 572. [Subtree of Another Tree](./SubtreeOfAnotherTree(572).py)
 ### medium
 230. [Kth Smallest Element in a BST](./KthSmallestElementInABST(230).py)
+1305. [All Elements in Two Binary Search Trees](./AllElementsInTwoBinarySearchTrees(1305).py)
 
 # [Sliding Window](https://leetcode.com/tag/sliding-window/)
 ### easy
