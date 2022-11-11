@@ -2,6 +2,7 @@
 
 # [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 ### easy
+70. [70. Climbing Stairs](./ClimbingStairs(70).go)
 392. [Is Subsequence](./IsSubsequence(392).py)
 ### medium
 64. [Minimum Path Sum](./MinimumPathSum(64).py)
@@ -13,6 +14,10 @@
 ### medium
 658. [Find K Closest Elements](./FindKClosestElements(658).py)
 912. [Sort an Array](./SortAnArray(912).py)
+
+# [Linked List](https://leetcode.com/tag/linked-list/)
+### easy
+203. [Remove Linked List Elements](./RemoveLinkedListElements(203).py)
 
 # [Tree](https://leetcode.com/tag/tree/)
 ### easy
