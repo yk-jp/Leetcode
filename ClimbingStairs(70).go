@@ -1,4 +1,10 @@
-package climbStairs
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println(climbStairs(4))
+}
 
 func climbStairs(n int) int {
 	if n <= 2 {
