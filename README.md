@@ -39,3 +39,10 @@
 
 # [Graph](https://leetcode.com/tag/graph/)
 997. [Find the Town Judge](./FindTheTownJudge(997).py)
+
+# [Greedy](https://leetcode.com/tag/greedy/)
+409. [Longest Palindrome](./LongestPalindrome(409))
+
+# [Stack](https://leetcode.com/tag/stack/)
+1475. [Final Prices With a Special Discount in a Shop](./FinalPricesWithASpecialDiscountInAShop(1475))
+
