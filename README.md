@@ -51,5 +51,7 @@
 # [Database](https://leetcode.com/tag/database/)
 ### easy
 181. [Employees Earning More Than Their Managers](./EmployeesEarningMoreThanTheirManagers(181).sql)
+182. [Duplicate Emails](./DuplicateEmails(182).sql)
+620. [Not Boring Movies](./NotBoringMovies(620).sql)
 1890. [The Latest Login in 2020](./TheLatestLoginIn2020(1890).sql)
 1965. [Employees With Missing Information](./EmployeesWithMissingInformation(1965).sql)
